@@ -1,2 +1,2 @@
 //word list
-const words = [];
+const words = ["sissy", "awake", "spicy", "viral", "cheat", "being", "realm", "scent", "peace"];
